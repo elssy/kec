@@ -1,0 +1,10 @@
+/home/scarlet/Desktop/kecportal/bin/Debug/netcoreapp2.0/kecportal.deps.json
+/home/scarlet/Desktop/kecportal/bin/Debug/netcoreapp2.0/kecportal.runtimeconfig.json
+/home/scarlet/Desktop/kecportal/bin/Debug/netcoreapp2.0/kecportal.runtimeconfig.dev.json
+/home/scarlet/Desktop/kecportal/bin/Debug/netcoreapp2.0/kecportal.dll
+/home/scarlet/Desktop/kecportal/bin/Debug/netcoreapp2.0/kecportal.pdb
+/home/scarlet/Desktop/kecportal/obj/Debug/netcoreapp2.0/kecportal.csproj.CoreCompileInputs.cache
+/home/scarlet/Desktop/kecportal/obj/Debug/netcoreapp2.0/kecportal.AssemblyInfoInputs.cache
+/home/scarlet/Desktop/kecportal/obj/Debug/netcoreapp2.0/kecportal.AssemblyInfo.cs
+/home/scarlet/Desktop/kecportal/obj/Debug/netcoreapp2.0/kecportal.dll
+/home/scarlet/Desktop/kecportal/obj/Debug/netcoreapp2.0/kecportal.pdb
